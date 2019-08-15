@@ -1,0 +1,5 @@
+Halo fik, salam kenal nama saya Fikran dari Sleman
+
+Resolusi Saya:
+- Membuat website menggunakan framework javascript
+- Bekerja di start-up
